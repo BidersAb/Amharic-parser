@@ -1,0 +1,31 @@
+#sentence=regexp_tagger.tag(nltk.word_tokenize("ስጋው ጮማ ነው"))
+#sentence=regexp_tagger.tag(nltk.word_tokenize("ስጋው ጮማ ነው"))
+#sentence=regexp_tagger.tag(nltk.word_tokenize("አበበ ኳስ አመጣለት"))
+#sentence=regexp_tagger.tag(nltk.word_tokenize("አበበ ለልጁ ኳስ አመጣለት"))
+#sentence=regexp_tagger.tag(nltk.word_tokenize("ያ ትልቅ የወርቅ ቀለበት ተሸጠ"))
+#sentence=regexp_tagger.tag(nltk.word_tokenize("ሁለት ሊትር ንጹህ የማር ጠጅ ተሸጠ"))
+#sentence=regexp_tagger.tag(nltk.word_tokenize("በጣም እንደ ወንድሙ ፈሪ ሰው ነው"))
+#sentence=regexp_tagger.tag(nltk.word_tokenize("አበበ ለ ካሳ መጽሃፍ ሰጠው"))
+#sentence=regexp_tagger.tag(nltk.word_tokenize("አበበ በ ባንክ ለ ካሳ ገንዘብ ሰጠው"))
+#sentence=regexp_tagger.tag(nltk.word_tokenize("አበበ በጣም እንደ ወድሙ  ክፉኛ ይሰራል"))
+#sentence=regexp_tagger.tag(nltk.word_tokenize("አስቴር ወደ ገበያ ሄደች"))
+#sentence=regexp_tagger.tag(nltk.word_tokenize("ካሳ አስቴር ቤት እደሰራች ሰምቷል"))
+
+ስጋው ጮማ ነው
+የእርዳታ እህል ተከፋፈለ
+አበበ በሶ በላ
+አበበ ጫማ ገዛ
+ነብር በኢትዮጵያ የለም
+ልጅቱ እናቷን ትመስላለች
+
+
+ዛሬ ወደ ስራ አልሄድምx
+ሰውየው በጣም ረጅም ነዉ
+ኮከቦች በንጋት በጣም ያበራሉ
+በጣም ትልቁ ስውየ መጣ
+እህል ጎተራው ውስጥ አለ 
+ያዘዝኩህን ብቻ ሰርተህ ጠብቀኝ
+የትምህርት ግባትና ቁሳቁስ ተሟላ
+የድርጅቱ አባላት በጉባኤው ተደሰቱ
+ምክርቤቱ ሁለት አዋጆችን መረመረ
+አልማ የህክምና መሳሪያዎችን አሰራጨ
